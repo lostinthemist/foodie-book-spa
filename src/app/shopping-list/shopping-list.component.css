@@ -1,0 +1,17 @@
+.shopping-list-container {
+    margin-top: 5.5rem;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px;
+    border-radius: 10px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    background-color: #efefef;
+    border: 1px solid #bcbcbc;
+}
+.list-group-item {
+    border: 1px solid transparent;
+}
+.list-group-item:hover {
+    border: 1px solid #999999;
+}
