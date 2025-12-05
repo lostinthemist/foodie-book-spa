@@ -46,6 +46,7 @@
         position: absolute;
         top: 0;
         background-color: #DCFF00 !important;
+        z-index: 2;
     }
 
 }
